@@ -3,7 +3,7 @@
 ## Introduction, Can a Neural Network Dream in Tables?
 
 When we think of generative AI, images, text, and audio come to mind. But what if neural networks could **imagine structured data tables**, the kind analysts and data scientists use every day?
-
+ 
 While generating cat images or realistic human faces is a solved problem, **tabular data** presents a unique challenge. Each column has its own meaning, scale, and statistical distribution. Relationships can be linear or nonlinear, categorical or numeric, and they often carry business logic (income should not be negative).  
 
 This article explores **how a Variational Autoencoder (VAE)** learns to “dream” in structured data: capturing its patterns, correlations, and variability, and generating new, realistic samples that *feel* authentic but reveal no real individuals.
